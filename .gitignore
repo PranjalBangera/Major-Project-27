@@ -1,0 +1,25 @@
+# CHB-MIT EEG dataset — keep local, do not commit
+CHBMIT/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# Generated files
+*.png
+*.jpg
+*.jpeg
+*.wav
